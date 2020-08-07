@@ -3,7 +3,6 @@
 <p><em>React Native Developer at <a href="http://antavaya.com">AntaVaya</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Doddy Rizal](https://img.shields.io/badge/-Doddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doddy-rizal-novianto-559269157/)](https://www.linkedin.com/in/doddy-rizal-novianto-559269157/)
 [![GitHub Doddy](https://img.shields.io/github/followers/Drzaln?label=follow&style=social)](https://github.com/Drzaln)
 
 ### <img src="https://media.giphy.com/media/L12CyKeFwRwp4dphvt/giphy.gif" width="50"> A little more about me...  
@@ -29,4 +28,6 @@ const doddy = {
 ```
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=drzaln&show_icons=true&theme=dracula)
+<h2>Contact Me <img src="https://media.giphy.com/media/VG8aixArY7kU7ZFbZU/giphy.gif" width="70"></h2>
+
+[<img src="https://img.icons8.com/dusk/48/000000/linkedin.png" height="40em" align="center" alt="Follow Doddy on LinkedIn" title="Follow Doddy on Linkedin"/>](https://www.linkedin.com/in/doddy-rizal-novianto-559269157/)      <a href="mailto:doddyrizaln@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png" height="40em" align="center" alt="Email Doddy" title="Email Doddy"/></a>  [<img src="https://img.icons8.com/dusk/48/000000/instagram-new.png" height="40em" align="center" alt="Follow Doddy on Instagram" title="Follow Doddy on Instagram"/>](https://www.instagram.com/drzaln/)
