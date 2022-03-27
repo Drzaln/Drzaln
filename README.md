@@ -1,7 +1,6 @@
 <h2>Hi, I'm Doddy Rizal Novianto! <img src="https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>React Native Developer at <a href="">Geek-la</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>React Native Developer</em></p>
 
 [![GitHub Doddy](https://img.shields.io/github/followers/Drzaln?label=follow&style=social)](https://github.com/Drzaln)
 
@@ -9,21 +8,16 @@
 
 ```javascript
 const doddy = {
-    code: ["Javascript", "Dart", "Kotlin"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Dart", Kotlin],
+    askMeAbout: ["tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["React Native", "Flutter", "Android Native"],
         frontEnd: {
             js: ["React"],
             css: ["SCSS", "bootstrap"]
         },
-        backEnd: {
-            js: ["node", "express"]
-        },
-        misc: ["Firebase"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Mobile App for AntaVaya using React Native"
+    currentProject: "Developing internal Ericsson app using React Native"
 };
 ```
 ---
