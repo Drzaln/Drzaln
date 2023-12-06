@@ -1,26 +1,5 @@
 <h2>Hi, I'm Doddy Rizal Novianto! <img src="https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>React Native Developer</em></p>
-
-[![GitHub Doddy](https://img.shields.io/github/followers/Drzaln?label=follow&style=social)](https://github.com/Drzaln)
-
-### <img src="https://media.giphy.com/media/L12CyKeFwRwp4dphvt/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const doddy = {
-    code: ["Javascript", "Typescript", "Dart", Kotlin],
-    askMeAbout: ["tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["React Native", "Flutter", "Android Native"],
-        frontEnd: {
-            js: ["React"],
-            css: ["SCSS", "bootstrap"]
-        },
-    },
-    currentProject: "Developing internal Ericsson app using React Native"
-};
-```
----
 
 <h2>Contact Me <img src="https://media.giphy.com/media/VG8aixArY7kU7ZFbZU/giphy.gif" width="70"></h2>
 
